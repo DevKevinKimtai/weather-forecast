@@ -1,0 +1,1 @@
+A project that touches on generating and displaying weekly weather forecast from cities across the globe

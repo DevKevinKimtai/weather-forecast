@@ -1,0 +1,48 @@
+html,body{
+    height: 100%;
+}
+
+img{
+    width: 50px;
+}
+
+li{
+    list-style: none;
+    margin-top: 10px;
+}
+
+li > button{
+    width: 87%;
+}
+
+.bigone{
+    width: 100px;
+}
+
+.full-height {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-grow-1 {
+    flex: 1;
+}
+
+.all-way{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+} 
+
+.card{
+    border-radius: 35px;
+}
+
+.display-4{
+    color:#040913 ;
+}
+
+.small{
+    color:#868B94;
+}
